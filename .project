@@ -25,11 +25,4 @@
 		<nature>org.eclipse.php.core.PHPNature</nature>
 		<nature>org.zend.php.zendserver.deployment.core.DeploymentNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>doRegister.php</name>
-			<type>1</type>
-			<location>C:/Users/Admin/Downloads/Do-Register-Php/doRegister.php</location>
-		</link>
-	</linkedResources>
 </projectDescription>
