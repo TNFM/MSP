@@ -1,0 +1,10 @@
+{
+  "name" : "MSP",
+  "require" : {
+    "filp/whoops" : "2.1.6"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
