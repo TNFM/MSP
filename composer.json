@@ -2,7 +2,8 @@
   "name" : "MSP",
   "require" : {
     "zendframework/zend-mvc" : "3.0.4",
-    "ppito/zf3-whoops" : "1.3.0"
+    "ppito/zf3-whoops" : "1.3.0",
+    "altorouter/altorouter" : "v1.2.0"
   },
   "repositories" : [ {
     "type" : "composer",

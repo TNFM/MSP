@@ -1,3 +1,4 @@
+<?php //namespace UniqueOneTemplate; ?>
 <?php require 'inc/config.php'; ?>
 <?php require 'inc/views/template_head_start.php'; ?>
 <?php require 'inc/views/template_head_end.php'; ?>
