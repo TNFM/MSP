@@ -111,6 +111,7 @@ class ComposerStaticInit05f7c570927a51f99780467a3fd66d3e
 
     public static $classMap = array (
         'AltoRouter' => __DIR__ . '/..' . '/altorouter/altorouter/AltoRouter.php',
+        'PageController' => __DIR__ . '/../..' . '/controllers/PageController.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

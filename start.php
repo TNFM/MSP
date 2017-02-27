@@ -13,6 +13,5 @@ require (__DIR__ . "/vendor/autoload.php");
 
     // and now final touch: setting Whoops as default error handler
     $whoops->register();
-
-//throw new RuntimeException("Oopsie!");
-?>
+    
+    $router=new AltoRouter();

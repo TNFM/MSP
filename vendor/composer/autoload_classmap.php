@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'AltoRouter' => $vendorDir . '/altorouter/altorouter/AltoRouter.php',
+    'PageController' => $baseDir . '/controllers/PageController.php',
 );

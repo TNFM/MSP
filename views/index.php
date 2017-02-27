@@ -1,19 +1,6 @@
 <?php require 'inc/config.php'; ?>
 <?php require 'inc/views/template_head_start.php'; ?>
 <?php require 'inc/views/template_head_end.php'; ?>
-<?php 
-//echo getcwd() . "\n";
-//chdir('Views'); 
-//echo getcwd() . "\n";
-//header("LOCATION: http://192.168.75.238/dd/Views/index.php");
-//print_r($_GET);
-//print_r ($_SERVER);
-//print_r ($_SERVER['REQUEST_URI']);
-//$_SERVER['REQUEST_URI']=$_SERVER['REQUEST_URI'] . 'Views';
-//print_r ($_SERVER['REQUEST_URI']);
-//$_SERVER['PHP_SELF']=$_SERVER['PHP_SELF'] . '/Views';
-//print_r ($_SERVER['PHP_SELF']);
-?>
 
 <!-- Page Container -->
 <div id="page-container">
